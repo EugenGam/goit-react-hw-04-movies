@@ -1,0 +1,48 @@
+.movieCard {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.goBackButton {
+  width: 70px;
+  height: 25px;
+  border: #0000ff solid 2px;
+  margin-bottom: 5px;
+  text-align: center;
+  color: #0000ff;
+  border-radius: 5px;
+}
+.movieTitle {
+  margin-top: 0;
+  font-size: 40px;
+}
+
+.moviePoster {
+  margin-right: 20px;
+}
+
+.movieYear {
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+
+.container {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.cast {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.linkToComp {
+  padding-bottom: 5px;
+  display: block;
+  font-size: 20px;
+  color: #000000;
+  margin-bottom: 20px;
+  border-bottom: black 2px solid;
+}
